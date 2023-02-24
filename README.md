@@ -1,3 +1,9 @@
+I made Frontend Mentor project following "Jak zacząć programować" tutorial. On my own I added switch mode feature.
+Link to scrimba below:
+https://scrimba.com/scrim/cqMPWRtG
+
+
+
 # Frontend Mentor - REST Countries API with color theme switcher
 
 ![Design preview for the REST Countries API with color theme switcher coding challenge](./design/desktop-preview.jpg)
